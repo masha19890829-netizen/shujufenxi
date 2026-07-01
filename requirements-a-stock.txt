@@ -1,0 +1,6 @@
+# requests is used by the local database script.
+# The rest are optional full dependencies recommended by simonlin1212/a-stock-data.
+requests
+mootdx
+pandas
+stockstats

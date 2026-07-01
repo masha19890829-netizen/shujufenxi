@@ -1,0 +1,16 @@
+/.agents/
+/.codex/
+/.netlify-cli/
+/.npm-cache-netlify/
+/.npm-cache-netlify-bg/
+/.npm-cache-netlify-cli/
+/deploy-*.zip
+/dist/
+/vendor/**/.git
+*.pyc
+__pycache__/
+*.db
+*.db-shm
+*.db-wal
+*.log
+vendor/a-stock-data/
